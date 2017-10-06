@@ -1,0 +1,17 @@
+html {
+  background: #13243d;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+
+a {
+  color: inherit;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  flex-direction: column;
+}
